@@ -1,4 +1,9 @@
 # OfflineEnsembles
+
+
+[![DOI](https://zenodo.org/badge/671363762.svg)](https://zenodo.org/doi/10.5281/zenodo.10030861)
+
+
 Detecting offline synchronous neuronal ensembles in two-photon calcium imaging data.
 
 Companion code for:
