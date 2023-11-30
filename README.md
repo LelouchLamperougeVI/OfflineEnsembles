@@ -8,6 +8,6 @@ Detecting offline synchronous neuronal ensembles in two-photon calcium imaging d
 
 Companion code for:
 
-Chang, H., Esteves, I. M., Neumann, A. R., Mohajerani, M. H., McNaughton, B. L. (2022), Cortical Reactivation of Non-Spatial and Spatial Memory Representations Coordinate with Hippocampus to Form a Memory Dialogue. _bioRxiv_. https://doi.org/10.1101/2022.12.16.520658
+Chang, H., Esteves, I. M., Neumann, A. R., Mohajerani, M. H., McNaughton, B. L. (2023), Cortical reactivation of spatial and non-spatial features coordinates with hippocampus to form a memory dialogue. _Nature Communications_, __14__(1), 7748. [https://doi.org/10.1101/2022.12.16.520658](https://doi.org/10.1038/s41467-023-43254-7)
 
 See __example.pdf__ for usage or open __example.mlx__ in MATLAB.
